@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2806
+
+This is a port of rfc1321 md5 function.
+
+:echo md5#md5("hello, world")
+e4d7f1b4ed2e42d15898f4b27b019da4
